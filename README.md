@@ -1,4 +1,4 @@
-#SiC Half-Bridge Inverter Leg + Double Pulse TEST (DPT)
+# SiC Half-Bridge Inverter Leg + Double Pulse TEST (DPT)
 
 A documented design-to-characterization project: a SiC half-bridge inverter leg with low-inductance 4-layer PCB, progressive bring-up, and DPT characterization (Eon/Eoff, dv/dt, overshoot, conduction losses).
 
