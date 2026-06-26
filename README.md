@@ -5,10 +5,10 @@ A documented design-to-characterization project: a SiC half-bridge inverter leg 
 ## Motivation
 Portfolio piece targeting EV / power electronics roles. Every design decision, measurement, and failure is documented as it happens.
 
-##Status
+## Status
 **Stage0 - Design study** (operation point, device selection, gate loop, DC link, inductive load, LTspice simulation).
 
-##Roadmap
+## Roadmap
 1. Design study (Stage 0)
 2. Schematic capture (KiCad)
 3. 4-layer PCB - low loop inductance, kelvin source, separated power/signal
