@@ -22,7 +22,3 @@ Portfolio piece targeting EV / power electronics roles. Every design decision, m
 - 'simulation/' - LTspice files
 - 'measurements/' - DPT data, scope captures 
 - 'logbook/' - chronological notes, failures learnings 
-
-## Key references
-- Wolfspeed CPWR-AN25
-- TI TIDA-01605
