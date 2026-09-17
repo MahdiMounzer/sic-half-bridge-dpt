@@ -1,25 +1,26 @@
 # Design Specifications - Stage 0
 
 ## 1. Operating point
-- DC link voltage (nominal / max test): TBD
-- Target switching current: TBD
-- Switching frequency (if applicable): TBD
+- DC link voltage (nominal / max test): 200 V
+- Target switching current: 10 A
+- Switching frequency (if applicable): 50 kHz- 100 kHz
 - Test type: Double Pulse Test
 
 ## 2.SiC MOSFET selection
 Requirement: T0-247-4 with Kelvin source pin (mandatory).
 Candidates:
-- Wolfspeed C3M0065090J
-- Infineon IMW65R048M1H
-- onsemi NTH4L040N065M3S
+- Wolfspeed C3M0045065K
+- Infineon IMZA65R048M1H
+- onsemi NTH4LN032N065M3S
 
-Decision : TBD
-Rationale: TBD
+Decision : onsemi NTH4LN032N065M3S
 
 ## 3.Gate driver
-- Candidate: TI UCC21520
-- Gate resistor (Rg on/off): TBD
-- Drive voltage (+V / -V): TBD
+- Candidates:
+- TI UCC21520
+- UCC21750
+- Gate resistor (Rg on/off): 
+- Drive voltage (+V / -V): +18 / -4
 
 ## 4. Gate loop design 
 - Loop area minimization strategy: TBD
