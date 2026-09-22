@@ -18,7 +18,7 @@ Portfolio piece targeting EV / power electronics roles. Every design decision, m
 ## Structure
 - 'design/' - design study and specifications
 - 'schematic/' - KiCad schematic
-- 'pcb/' - KiCad PCB layout 
 - 'simulation/' - LTspice files
-- 'measurements/' - DPT data, scope captures 
+- 'measurements/' - DPT data, scope captures
+- 'calculations/' - Math behind my choices
 - 'logbook/' - chronological notes, failures learnings 
