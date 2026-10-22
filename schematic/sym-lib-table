@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DPT_Ajouts")(type "KiCad")(uri "${KIPRJMOD}/DPT_Ajouts.kicad_sym")(options "")(descr "Symboles ajoutes pour la carte DPT"))
+)
